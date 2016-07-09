@@ -42,3 +42,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.pyc
+config/database.json
+config/prop_DWC.json
+config/prop_FISH.json
