@@ -8,8 +8,6 @@ Created on 2016/07/10
 from tkmodule import MyTk
 
 
-
-
 if __name__ == "__main__":
     mytk=MyTk()
 
